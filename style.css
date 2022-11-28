@@ -1,0 +1,25 @@
+.pg-cont{
+    padding: 134px;
+    margin: 31px;
+    margin-top: -64px;
+}
+.bg-bck{
+    background-color: #d3c2c247;
+    color: rgb(169, 169, 240) !;
+}
+.back{
+    border: 1px solid #ddd;
+    color: rgb(169, 169, 240) !important;
+}
+.ab{
+    border: 1px solid;
+    color: rgb(169, 169, 240) !important;
+}
+.pgg{
+    border: 1px solid #ddd;
+    color: rgb(169, 169, 240) !important;
+}
+.abc{
+    border: 1px solid #ddd; 
+    color: rgb(169, 169, 240) !important;
+}
